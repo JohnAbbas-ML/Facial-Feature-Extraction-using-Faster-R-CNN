@@ -44,8 +44,7 @@ The methodology consists of several key steps:
   - **F1-score**: Balanced F1-score confirming model effectiveness.
 - Qualitative results demonstrated accurate feature localization.
 
-## Installation and Usage
-### Prerequisites
+## Technologies Used
 - Python 3.8+
 - PyTorch
 - Torchvision
